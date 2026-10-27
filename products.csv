@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Classic Headphones,Electronics,3838,1884.15
+P002,Premium Headphones,Electronics,4246,3352.03
+P003,Classic Smartwatch,Electronics,1204,682.77
+P004,Premium Smartwatch,Electronics,4208,2559.48
+P005,Classic Speaker,Electronics,3514,2657.65
+P006,Premium Speaker,Electronics,1129,563.8
+P007,Classic Keyboard,Electronics,1180,641.4
+P008,Premium Keyboard,Electronics,2008,1520.13
+P009,Classic Mouse,Electronics,1537,924.67
+P010,Premium Mouse,Electronics,3039,2188.68
+P011,Classic Power Bank,Electronics,1173,917.59
+P012,Premium Power Bank,Electronics,287,195.93
+P013,Classic Webcam,Electronics,1632,1283.79
+P014,Premium Webcam,Electronics,3226,1840.62
+P015,Classic Charger,Electronics,4363,3014.25
+P016,Premium Charger,Electronics,3872,2762.03
+P017,Classic Tablet Stand,Electronics,4457,3285.0
+P018,Premium Tablet Stand,Electronics,2446,1485.5
+P019,Classic Earbuds,Electronics,1847,1266.32
+P020,Premium Earbuds,Electronics,1721,874.69
+P021,Classic T-Shirt,Fashion,4440,2985.4
+P022,Premium T-Shirt,Fashion,1092,862.0
+P023,Classic Jeans,Fashion,2866,1431.51
+P024,Premium Jeans,Fashion,3597,2807.44
+P025,Classic Jacket,Fashion,427,207.05
+P026,Premium Jacket,Fashion,1628,1101.8
+P027,Classic Sneakers,Fashion,1886,1397.25
+P028,Premium Sneakers,Fashion,1273,699.03
+P029,Classic Kurta,Fashion,1648,1103.95
+P030,Premium Kurta,Fashion,1494,1219.74
+P031,Classic Shirt,Fashion,2625,1647.27
+P032,Premium Shirt,Fashion,2375,1579.48
+P033,Classic Dress,Fashion,4096,3045.42
+P034,Premium Dress,Fashion,3559,2073.64
+P035,Classic Backpack,Fashion,449,279.12
+P036,Premium Backpack,Fashion,4160,3231.57
+P037,Classic Sunglasses,Fashion,2101,1575.74
+P038,Premium Sunglasses,Fashion,520,422.14
+P039,Classic Cap,Fashion,1722,1378.43
+P040,Premium Cap,Fashion,363,201.93
+P041,Classic Mixer,Home & Kitchen,959,760.46
+P042,Premium Mixer,Home & Kitchen,987,634.44
+P043,Classic Kettle,Home & Kitchen,1380,907.93
+P044,Premium Kettle,Home & Kitchen,3829,2120.37
+P045,Classic Lamp,Home & Kitchen,1373,793.98
+P046,Premium Lamp,Home & Kitchen,3971,3041.84
+P047,Classic Cookware,Home & Kitchen,1274,689.98
+P048,Premium Cookware,Home & Kitchen,3307,2202.36
+P049,Classic Bedsheet,Home & Kitchen,537,402.74
+P050,Premium Bedsheet,Home & Kitchen,2140,1638.45
+P051,Classic Bottle,Home & Kitchen,2009,996.64
+P052,Premium Bottle,Home & Kitchen,1082,519.84
+P053,Classic Storage Box,Home & Kitchen,510,316.22
+P054,Premium Storage Box,Home & Kitchen,2154,1467.36
+P055,Classic Wall Clock,Home & Kitchen,3109,2385.78
+P056,Premium Wall Clock,Home & Kitchen,2116,1137.7
+P057,Classic Cushion,Home & Kitchen,3664,2831.03
+P058,Premium Cushion,Home & Kitchen,1950,1356.33
+P059,Classic Toaster,Home & Kitchen,2462,1328.23
+P060,Premium Toaster,Home & Kitchen,1743,851.12
+P061,Classic Face Wash,Beauty,1836,1343.1
+P062,Premium Face Wash,Beauty,811,488.75
+P063,Classic Moisturizer,Beauty,4419,2799.22
+P064,Premium Moisturizer,Beauty,1180,871.3
+P065,Classic Shampoo,Beauty,2149,1656.58
+P066,Premium Shampoo,Beauty,3456,1895.8
+P067,Classic Perfume,Beauty,3251,2574.76
+P068,Premium Perfume,Beauty,4227,2900.88
+P069,Classic Sunscreen,Beauty,556,318.99
+P070,Premium Sunscreen,Beauty,569,361.2
+P071,Classic Lip Balm,Beauty,4052,3227.78
+P072,Premium Lip Balm,Beauty,2043,1448.28
+P073,Classic Serum,Beauty,4308,2802.67
+P074,Premium Serum,Beauty,1424,720.92
+P075,Classic Body Lotion,Beauty,2578,1434.76
+P076,Premium Body Lotion,Beauty,2138,1584.72
+P077,Classic Conditioner,Beauty,2106,1233.93
+P078,Premium Conditioner,Beauty,3886,3008.6
+P079,Classic Soap,Beauty,3763,1821.71
+P080,Premium Soap,Beauty,835,648.21
+P081,Classic Yoga Mat,Sports,2905,2024.49
+P082,Premium Yoga Mat,Sports,1220,725.93
+P083,Classic Football,Sports,1308,926.46
+P084,Premium Football,Sports,916,521.14
+P085,Classic Cricket Bat,Sports,3975,2117.11
+P086,Premium Cricket Bat,Sports,1256,657.91
+P087,Classic Skipping Rope,Sports,2677,1315.34
+P088,Premium Skipping Rope,Sports,1908,1133.5
+P089,Classic Dumbbell,Sports,4403,3114.68
+P090,Premium Dumbbell,Sports,3136,1635.14
+P091,Classic Gym Bag,Sports,278,167.67
+P092,Premium Gym Bag,Sports,3865,2523.77
+P093,Classic Water Bottle,Sports,4015,2937.73
+P094,Premium Water Bottle,Sports,572,370.3
+P095,Classic Badminton Set,Sports,1151,882.0
+P096,Premium Badminton Set,Sports,3203,2384.42
+P097,Classic Resistance Band,Sports,2880,1977.9
+P098,Premium Resistance Band,Sports,1086,639.95
+P099,Classic Running Belt,Sports,1344,807.41
+P100,Premium Running Belt,Sports,2972,1850.8
